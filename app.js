@@ -29,7 +29,7 @@ var dive = function dive(dir, action) {
   });
 };
 
-var targetDir = '/Users/wzl/mytest';
+var targetDir = '/some/dir/mytest';
 
 dive(targetDir, function(error, path) {
   if (!error) {
