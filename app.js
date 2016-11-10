@@ -1,3 +1,7 @@
+/**
+ * Referenced from: http://stackoverflow.com/questions/7041638/walking-a-directory-with-node-js
+**/
+
 var fs = require('fs');
 
 
